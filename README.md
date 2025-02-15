@@ -17,8 +17,6 @@ Whether you're new to AI or an experienced practitioner, this notebook offers a 
 ## What's Included
 
 - **AI_Model_Comparison.ipynb:** The main Jupyter Notebook containing all the code and interactive demos.
-- **requirements.txt:** A list of all the Python packages needed to run the notebook.
-- Additional configuration files and resources as needed.
 
 ## How to Run
 
@@ -27,7 +25,22 @@ Whether you're new to AI or an experienced practitioner, this notebook offers a 
 2. Ensure GPU is enabled by navigating to *Runtime > Change runtime type > Hardware accelerator > GPU*.
 3. Run the cells sequentially to interact with the models via the Gradio interface.
 
+## How to Customize models?
+```python
+!ollama pull llama3.2:1b
+!ollama pull phi3
+!ollama pull smollm2:135m
+!ollama pull tinyllama:latest
+!ollama pull gemma2:2b
 
+models = [
+  'llama3.2:1b',
+  'smollm2:135m',
+  'phi3',
+  'tinyllama:latest',
+  'gemma2:2b'
+]
+```
 ## SEO Keywords
 
 Ollama, AIsuite, Gradio, Google Colab, Free GPU, AI Models, Machine Learning, Jupyter Notebook, Interactive AI Demo, AI Model Comparison, ChatGPT, GitHub Repository
@@ -39,7 +52,3 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-*This is my first GitHub repository, created with the help of ChatGPT to build an interactive and visually appealing AI model comparison notebook.*
