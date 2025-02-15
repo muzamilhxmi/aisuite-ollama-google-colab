@@ -26,6 +26,12 @@ Whether you're new to AI or an experienced practitioner, this notebook offers a 
 3. Run the cells sequentially to interact with the models via the Gradio interface.
 
 ## How to Customize models?
+
+Feel free to play with this cell under section 2.
+To get more about model Ollama offers, visit this link:
+
+https://ollama.com/search
+
 ```python
 !ollama pull llama3.2:1b
 !ollama pull phi3
