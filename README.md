@@ -1,6 +1,6 @@
 # AI Model Comparison with Ollama, AIsuite & Gradio
 
-[![Tutorial Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=Hvz8p4XWEUM)
+[![Tutorial Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=1QnYeaSg_VA)
 
 Welcome to the **AI Model Comparison Notebook** repository! This project features a comprehensive Jupyter Notebook that demonstrates how to compare various AI models using Ollama, integrated with AIsuite and Gradio. Run the notebook on Google Colab with free GPU support for an interactive and efficient experience.
 
