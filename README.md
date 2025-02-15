@@ -16,7 +16,7 @@ Whether you're new to AI or an experienced practitioner, this notebook offers a 
 
 ## What's Included
 
-- **AI_Model_Comparison.ipynb:** The main Jupyter Notebook containing all the code and interactive demos.
+- **ollama_aisuite_gradio.ipynb:** The main Jupyter Notebook containing all the code and interactive demos.
 
 ## How to Run
 
